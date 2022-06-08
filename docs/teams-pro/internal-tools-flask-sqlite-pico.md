@@ -284,9 +284,9 @@ This will put the controls all on the same line as each task, and make the heade
 
 Your application should function at this point. Note that login with Replit doesn't always work as expected in a browser embedded in your IDE, so rather use the application in a dedicated tab.
 
-To ensure that your team can always access your internal application, enable "Always On" mode by clicking on your repl's name and toggling the switch.
+To ensure that your team can always access your internal application, enable "Keep-Awake" mode by clicking on your repl's name and toggling the switch.
 
-![enable always on](https://replit-docs-images.bardia.repl.co/images/teamsPro/internal-tools-flask-sqlite/always-on.png)
+![enable keep awake](https://replit-docs-images.bardia.repl.co/images/teamsPro/internal-tools-flask-sqlite/always-on.png)
 
 ## Where next?
 

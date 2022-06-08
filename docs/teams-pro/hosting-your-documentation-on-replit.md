@@ -121,7 +121,7 @@ run="mkdocs serve -a 0.0.0.0:443"
 
 Now the docs will be served whenever you hit the big green "Run" button. 
 
-Next, click on the name of your repl and turn on "Always On" and "Add Boost". This will mean users can always visit your site and it won't get turned off. The boost will give you some extra processing power, which will make it faster to build your site once you have a lot of Markdown files.
+Next, click on the name of your repl and turn on "Keep-Awake" and "Add Boost". This will mean users can always visit your site and it won't get turned off. The boost will give you some extra processing power, which will make it faster to build your site once you have a lot of Markdown files.
 
 <img
   src="https://replit-docs-images.bardia.repl.co/images/teamsPro/hosting-docs/boost.png"

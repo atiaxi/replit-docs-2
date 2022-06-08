@@ -375,7 +375,8 @@ const horizontal_crosshair = add([
 ]);
 
 ```
-This adds 2 lines at a point halfway across the screen, and about 1/3 down the screen, which is roughly the center of the view out of the spaceship window. Since Kaboom doesn't have a line component, we use [`rect`](https://kaboomjs.com/doc#rect) to draw rectangles with a width of 1 pixel, effectively a line. We add the cross hairs to the UI layer, so they are always on top of the aliens and stars.
+This adds 2 lines at a point halfway across the screen, and about 1/3 down the screen, which is roughly the center of the view out of the spaceship window. Since Kaboom doesn't have a line component, we use [`rect`](https://kaboomjs.com/doc#rect) to draw rectangles with a width of 1 pixel, effectively a line. We add the cross hairs to the UI layer, so they are 
+always on top of the aliens and stars.
 
 Now we have a point to aim at, let's add the lasers. Our player will shoot using the spacebar, and we want a classic laser effect: 2 lasers, one shooting from each side of the ship towards the same point to give the effect of shooting into the distance, towards a vanishing point.
 

@@ -64,7 +64,7 @@ The platform it is built around four cornerstones which we used to inform its fe
   style={{ width: "60% !important" }}
 />
 
-  - If you use always-on with hosting, you can spin up your blogs, docs, scripting tools, etc., at unprecedented speeds.
+  - If you use Keep-Awake with hosting, you can spin up your blogs, docs, scripting tools, etc., at unprecedented speeds.
 
 ## 4. Fun
    - Teams Pro really allows team work to turn into dream work. 

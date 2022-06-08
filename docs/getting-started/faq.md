@@ -25,12 +25,12 @@ It could be due to a few issues:
 
 If neither of these apply, you can report a bug by clicking "Get help" in your account sidebar (when you are logged in) and then click the red "Report a bug" button. Please provide information on the repl/s in question, browser information, and operating system.
 
-##### Why is my 'always on' repl not working?
+##### Why is my 'Keep-Awake' repl not working?
 
 Have you tried:
 
 1. Proofing your code for any errors.
-2. Turning 'always on' off and then back on.
+2. Turning 'Keep-Awake' off and then back on.
 3. Forking the repl.
 4. Running 'kill 1' in the shell.
 5. Checking for any memory leaks within your code.
@@ -64,11 +64,11 @@ Unforutnately, the folders in the My Repls portion are more so metaphors and don
 
 ##### How do I keep my repls to always stay on?
 
-Always-on is controlled by a toggle inside your repl. To enable it:
+Keep-Awake is controlled by a toggle inside your repl. To enable it:
 
 - Navigate to your repl.
 - Open the info panel by clicking on your repl's name.
-- Enable Always-on by clicking on the toggle at the bottom.
+- Enable Keep-Awake by clicking on the toggle at the bottom.
 
 Note that this function is currently only available on our [Hacker plan](https://replit.com/site/pricing).
 

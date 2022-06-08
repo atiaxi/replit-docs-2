@@ -50,7 +50,7 @@ const redirects = [
       to: '/hosting/embedding-repls'
   }, {
       from: '/repls/always-on',
-      to: '/hosting/enabling-always-on'
+      to: '/hosting/enabling-keep-awake'
   }, {
       from: '/misc/security',
       to: '/legal-and-security-info/security'
@@ -338,7 +338,10 @@ const redirects = [
   }, {
       from: "/tutorials/44-build-smart-contract-oracle",
       to: "/tutorials/build-smart-contract-oracle"
-  }
+  }, {
+      from: '/hosting/enabling-always-on',
+      to: '/hosting/enabling-keep-awake'
+  },
 ]
 
 /** @type {import('@docusaurus/types').Config} */

@@ -929,7 +929,7 @@ Now that our code is in place, we can add a new Celery beat process to `start.sh
 celery -A lib.tasks.celery beat -S redisbeat.RedisScheduler --loglevel=debug &
 ```
 
-Now run your repl. You can test this functionality out now by scheduling your digest about ten minutes in the future. If you want to receive regular digests, you will need to enable [Always-on](/hosting/enabling-always-on) in your repl. Also, remember that all times must be specified in the UTC timezone.
+Now run your repl. You can test this functionality out now by scheduling your digest about ten minutes in the future. If you want to receive regular digests, you will need to enable [Keep-Awake](/hosting/enabling-keep-awake) in your repl. Also, remember that all times must be specified in the UTC timezone.
 
 ## Where next?
 

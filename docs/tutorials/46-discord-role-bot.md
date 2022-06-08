@@ -422,7 +422,7 @@ We've created a simple Discord server welcome bot. There's a lot of scope for ad
 * Have your bot automatically assign additional user roles based on behavior. For example, you could give a role to users who react to messages with the most emojis.
 * Add additional commands. For example, you might want to have a command that searches Stack Overflow, allowing members to ask programming questions from the chat.
 
-Discord bot code can be hosted on Replit permanently, but you'll need to use an [Always-on](https://docs.replit.com/hosting/enabling-always-on) repl to keep it running 24/7.
+Discord bot code can be hosted on Replit permanently, but you'll need to use an [Keep-Awake](https://docs.replit.com/hosting/enabling-keep-awake) repl to keep it running 24/7.
 
 You can find our repl below:
 

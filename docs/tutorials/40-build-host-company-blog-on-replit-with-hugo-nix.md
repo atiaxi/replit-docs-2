@@ -265,7 +265,7 @@ Let's test out our publishing flow.
 
 This will be your workflow for publishing posts. Undraft, commit and push on development, then pull and rerun on production.
 
-If you have a paid Replit plan, you should set your production repl as [Always-on](/hosting/enabling-always-on), so that people will always be able to reach your website.
+If you have a paid Replit plan, you should set your production repl as [Keep-Awake](/hosting/enabling-keep-awake), so that people will always be able to reach your website.
 
 You will probably also want to use a custom domain name, instead of `blog.your-name.repl.co`. Instructions for setting this up are provided [here](/hosting/hosting-web-pages#custom-domains). As a bonus, following this process will also put your site behind [Cloudflare](https://www.cloudflare.com/)'s content delivery network (CDN), improving its performance and reachability across the global internet. Cloudflare is [free for personal and hobby projects](https://www.cloudflare.com/plans/#overview).
 

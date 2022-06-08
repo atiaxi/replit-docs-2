@@ -60,7 +60,7 @@ You can invite your friends or colleagues to help you with problems or hack on s
 
 ## Hosting Code: Replit for Startups and Indiehackers
 
-You can host anything on Replit, from your basic personal website to a full web application for your startup. Any project you create can be deployed instantly to a temporary domain so you can share with friends or colleagues and get feedback, or permanently to an 'Always On' repl with a custom domain for a production environment.
+You can host anything on Replit, from your basic personal website to a full web application for your startup. Any project you create can be deployed instantly to a temporary domain so you can share with friends or colleagues and get feedback, or permanently to an 'Keep-Awake' repl with a custom domain for a production environment.
 
 We also offer a full Key-Value store database, built-in authentication, and templates for many common web frameworks like Django or Ruby on Rails so you can ship your MVP in days instead of months.
 
@@ -72,7 +72,7 @@ See how to host a front-end website for your homepage, landing page or portfolio
 ### [Deploying HTTP servers](/hosting/deploying-http-servers)
 Deploy a full-blown web application written in nearly any back-end language or framework.
 
-### [Always On Repls](/hosting/enabling-always-on)
+### [Keep Awake Repls](/hosting/enabling-keep-awake)
 Keep your repl alive 24/7.
 
 ### [The Replit Database](/hosting/database-faq)
